@@ -1,0 +1,13 @@
+{
+  "name": "careerpath-platform",
+  "version": "1.0.0",
+  "description": "CareerPath – Your Qualification Is Not Your Limitation",
+  "scripts": {
+    "start": "node backend/server.js",
+    "backend": "cd backend && npm start",
+    "install:all": "cd backend && npm install"
+  },
+  "keywords": ["career", "education", "jobs", "skill-gap", "roadmap"],
+  "author": "CareerPath Team",
+  "license": "MIT"
+}
